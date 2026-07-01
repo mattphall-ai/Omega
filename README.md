@@ -44,6 +44,7 @@ overwriting history.
 data/rate-card.xlsx     checked-in rate card (replace to update rates)
 server/                 Express API + SQLite storage
 client/                 React + Vite frontend
+poc/                    Phase 1 proof of concept: browser-only, no backend (see poc/README.md)
 ```
 
 ## Setup
